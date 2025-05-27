@@ -5,7 +5,7 @@ public class sample {
         String word_u = "嬉しい知らせが飛び込んできた";
         String word_e = "駅で急に待ち合わせ。慌てて準備して";
         String word_o = "okinawa旅行に出発だ！";
-
+      
         System.out.println("あ：" + word_a);
         System.out.println("い：" + word_i);
         System.out.println("う：" + word_u);
