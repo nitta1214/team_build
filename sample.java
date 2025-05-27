@@ -4,7 +4,7 @@ public class sample {
         String word_i = "いつもの朝とは様子が違う";
         String word_u = "嬉しい知らせが飛び込んできた";
         String word_e = "駅で急に待ち合わせ。慌てて準備して";
-        String word_o = "okinawa旅行に出発だ";
+        String word_o = "先日の出来事が体を破壊";
         String word_k = "";
 
         System.out.println("か：" + word_a);
