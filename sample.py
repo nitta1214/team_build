@@ -1,9 +1,8 @@
-word_a = "朝から驚きの連続だ"
-word_i = "いつもの朝とは様子が違う"
-word_u = "嬉しい知らせが飛び込んできた"
-word_e = "えらいことに"
-word_o = "温泉旅行に出発だ！"
-
+word_a = "あかいリンゴ"
+word_i = "いちじくのタルト"
+word_u = "うなぎパイ"
+word_e = "えんどうまめのスープ"
+word_o = "おにぎり"
 
 print(f"あ：{word_a}")
 print(f"い：{word_i}")
