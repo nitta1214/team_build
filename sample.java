@@ -1,5 +1,6 @@
 public class sample {
     public static void main(String[] args) {
+
         String word_a = "かたつむりがいた";
         String word_i = "いつもの朝とは様子が違う";
         String word_u = "やる気を持って";
