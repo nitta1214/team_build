@@ -2,7 +2,7 @@ public class sample {
     public static void main(String[] args) {
         String word_a = "かたつむりがいた";
         String word_i = "いつもの朝とは様子が違う";
-        String word_u = "嬉しい知らせが飛び込んできた";
+        String word_u = "やる気を持って";
         String word_e = "マクドナルドに行きたいな";
         String word_o = "okinawa旅行に出発だ";
         String word_k = "";
