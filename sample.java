@@ -1,7 +1,7 @@
 public class sample {
     public static void main(String[] args) {
         String word_ka = "かたつむりがいた";
-        String word_ta = ""鷹に警戒しながら";
+        String word_ta = "鷹に警戒しながら";
         String word_ya = "やる気を持って";
         String word_ma = "マクドナルドに行きたいな";
         String word_sen = "先日の出来事が体を破壊";
