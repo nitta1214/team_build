@@ -1,4 +1,4 @@
-const word_no = "朝から驚きの連続だ!";
+const word_no = "ノートパソコンが故障した";
 const word_gi = "いつもの朝とは様子が違う";
 const word_ma = "嬉しい知らせが飛び込んできた！";
 const word_sa = "駅で急に待ち合わせ。慌てて準備して";
