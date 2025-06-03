@@ -1,6 +1,6 @@
 const word_no = "ノートパソコンが故障した";
 const word_gi = "いつもの朝とは様子が違う";
-const word_ma = "嬉しい知らせが飛び込んできた！";
+const word_ma = "麻婆豆腐丼をかきこんで";
 const word_sa = "駅で急に待ち合わせ。慌てて準備して";
 const word_hu = "温泉旅行に出発しよう！";
 const word_mi = "道に迷って、めっちゃ萎え";
