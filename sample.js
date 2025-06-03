@@ -1,5 +1,5 @@
 const word_no = "ノートパソコンが故障した";
-const word_gi = "いつもの朝とは様子が違う";
+const word_gi = "牛乳をこぼしたので";
 const word_ma = "麻婆豆腐丼をかきこんで";
 const word_sa = "サービス残業";
 const word_hu = "服びしょびしょでマジ最悪";
